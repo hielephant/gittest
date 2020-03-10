@@ -2,4 +2,8 @@ hellomoto moto shdh
 hahdheheh
 sdfdshhf
 not word
+<<<<<<< HEAD
 hhhhhhhhhhhhh heheheh
+=======
+hhhhhhhhhhhhh i like
+>>>>>>> dev
